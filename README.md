@@ -7,17 +7,25 @@ Step-by-step guide to clone and use repository:
 
 2. `cd JavaScript-and-ES6-Challenges`
 
-3. Each Challenge has two branches **start** and **finish**.
+3. Run `npm install -g lite-server`
+
+4. Each Challenge has two branches **start** and **finish**.
 
 In order to start with specific challenge checkout corresponding **start** branch like
 
 `git checkout CHALLENGE-1/sum-numbers/start`
 
-Solution for each challenge is available in the **finish** branches like
+Run `lite-server`. Your browser will open at `localhost:3000` and if you open the JS console in the browser you'll see the output from the current challenge.
+
+5. Open directory in the favorite IDE. As you change your code, the browser output will update.
+
+Once you're satisfied, you can check the solution.
+
+6. Solution for each challenge is available in the **finish** branches like
 
 `git checkout CHALLENGE-1/sum-numbers/finish`
 
-4. Open directory in the favorite IDE. I suggest Visual Studio Code or Atom
+7. There is discussion of the solutions from the author at https://www.oreilly.com/library/view/javascript-and-es6/9781789955606/ (get Prodigy to pay for your ACM membership to discuss this content)
 
 
 List of all challenges:
