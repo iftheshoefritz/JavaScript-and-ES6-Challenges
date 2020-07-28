@@ -19,7 +19,9 @@ Run `lite-server`. Your browser will open at `localhost:3000` and if you open th
 
 5. Open directory in the favorite IDE. As you change your code, the browser output will update.
 
-Once you're satisfied, you can check the solution.
+**If you don't know how to solve the challenge, google the topic.** You will learn a lot unless you are a JS pro already :)
+
+Once you're satisfied, you can check the solution. 
 
 6. Solution for each challenge is available in the **finish** branches like
 
